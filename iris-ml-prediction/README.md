@@ -5,7 +5,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)
 
-![Scikit-learn](https://img.shields.io/badge/scikit-learn-Library-yellow.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-Library-yellow.svg)
 
 
 Status
