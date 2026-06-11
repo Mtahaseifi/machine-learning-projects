@@ -27,8 +27,8 @@ This repository contains a Machine Learning implementation focused on the classi
 این مخزن شامل یک پیاده‌سازی یادگیری ماشین (Machine Learning) بر روی دیتاست کلاسیک Iris است. هدف اصلی، ساخت و آموزش یک مدل طبقه‌بندی (Classification) است که بتواند با دقت بالا، گونه‌ی گل زنبق را بر اساس اندازه‌های ظاهری آن پیش‌بینی کند.
 # ویژگی‌های کلیدی
 
-    # تحلیل اکتشافی داده‌ها (EDA): بصری‌سازی روابط بین طول و عرض کاسبرگ و گلبرگ‌ها.
-    # مدل یادگیری ماشین: پیاده‌سازی الگوریتم‌های طبقه‌بندی (مانند درخت تصمیم یا KNN) با استفاده از کتابخانه Scikit-Learn.
+    # تحلیل اکتشافی داده‌ها (EDA): بصری‌سازی تعداد گونه های گل زنبق .
+    # مدل یادگیری ماشین: پیاده‌سازی الگوریتم‌های طبقه‌بندی (درخت تصمیم) با استفاده از کتابخانه Scikit-Learn.
     # ارزیابی عملکرد: سنجش دقت مدل با استفاده از ماتریس اغتشاش (Confusion Matrix) و گزارش‌های طبقه‌بندی.
 
 # نحوه اجرا
@@ -37,7 +37,7 @@ This repository contains a Machine Learning implementation focused on the classi
 
 ۲. کتابخانه‌های مورد نیاز را نصب کنید:
 
-pip install pandas scikit-learn matplotlib seaborn
+pip install pandas scikit-learn matplotlib
 
 ۳. فایل predict_iris.ipynb را در Jupyter Notebook یا VS Code باز کرده و تمام سلول‌ها را اجرا کنید.
 
