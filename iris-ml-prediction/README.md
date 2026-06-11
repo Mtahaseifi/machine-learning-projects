@@ -2,8 +2,10 @@
 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)!
-[Scikit-learn](https://img.shields.io/badge/scikit-learn-Library-yellow.svg)
+
+![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)
+
+![Scikit-learn](https://img.shields.io/badge/scikit-learn-Library-yellow.svg)
 
 
 Status
