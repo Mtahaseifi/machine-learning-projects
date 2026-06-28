@@ -46,7 +46,7 @@ This repository hosts an end-to-end Machine Learning project focused on predicti
 
 ۲. کتابخانه‌های پایتون مورد نیاز را نصب کنید:
 
-                                                                    bash
+                                                                    
    pip install pandas scikit-learn matplotlib seaborn
 
 ۳. به دایرکتوری پروژه بروید.
