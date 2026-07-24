@@ -4,8 +4,6 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)
 
-![Scikit-learn](https://img,.shields.io/badge/Scikit-learn-yellow.svg)
-![Scikit-learn](https://img,.shields.io/badge/sklearn-Library-yellow.svg)
 
 
 # About the Project
