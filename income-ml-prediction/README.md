@@ -4,8 +4,6 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)
 
-![Scikit-learn](https://img,.shields.io/badge/Scikit-learn-yellow.svg)
-
 
 # About the Project
 
@@ -34,9 +32,11 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
                                                                     
     pip install pandas scikit-learn matplotlib seaborn
 
-   3.Run the Notebook:
+   3.Navigate to the project directory.
 
-   Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
+   4.Run the Notebook:
+
+      Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
 
 Contributions
 
