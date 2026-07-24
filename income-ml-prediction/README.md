@@ -25,18 +25,18 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
 
 # How to Run
 
-   1.Clone this repository:
+1.Clone this repository:
 
-   2.Install the required dependencies:
+2.Install the required dependencies:
 
                                                                     
     pip install pandas scikit-learn matplotlib seaborn
 
-   3.Navigate to the project directory.
+3.Navigate to the project directory.
 
-   4.Run the Notebook:
+4.Run the Notebook:
 
-      Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
+   Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
 
 Contributions
 
