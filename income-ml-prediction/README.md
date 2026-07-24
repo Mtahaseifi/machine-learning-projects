@@ -4,6 +4,7 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-Library-orange.svg)
 
+![Scikit-learn](https://img,.shields.io/badge/Scikit-learn-yellow.svg)
 
 
 # About the Project
@@ -24,23 +25,21 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
     Scikit-learn: Used for implementing the Decision Tree algorithm, model training, and performance evaluation.
     Matplotlib: Used for data visualization, plotting the confusion matrix, and interpreting the decision-making process of the model.
 
-# How to Run :
+# How to Run
 
-    Clone this repository:
-
-                                                                    
-   git clone [your-repository-url]
-
-    Install the required dependencies:
+   Clone this repository:
 
                                                                     
-   pip install pandas scikit-learn matplotlib seaborn
+    git clone [your-repository-url]
 
-    Navigate to the project directory.
+   Install the required dependencies:
 
-    Run the Notebook:
+                                                                    
+    pip install pandas scikit-learn matplotlib seaborn
 
-    Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
+   Run the Notebook:
+
+   Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
 
 Contributions
 
