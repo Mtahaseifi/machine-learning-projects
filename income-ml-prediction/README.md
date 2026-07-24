@@ -24,7 +24,7 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
     Scikit-learn: Used for implementing the Decision Tree algorithm, model training, and performance evaluation.
     Matplotlib: Used for data visualization, plotting the confusion matrix, and interpreting the decision-making process of the model.
 
-# How to Run
+# How to Run :
 
     Clone this repository:
 
