@@ -28,12 +28,12 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
 
     Clone this repository:
 
-                                                                    bash
+                                                                    
    git clone [your-repository-url]
 
     Install the required dependencies:
 
-                                                                    bash
+                                                                    
    pip install pandas scikit-learn matplotlib seaborn
 
     Navigate to the project directory.
