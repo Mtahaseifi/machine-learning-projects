@@ -27,17 +27,14 @@ The model was trained, evaluated, and achieved high accuracy in predicting incom
 
 # How to Run
 
-   Clone this repository:
+   1.Clone this repository:
 
-                                                                    
-    git clone [your-repository-url]
-
-   Install the required dependencies:
+   2.Install the required dependencies:
 
                                                                     
     pip install pandas scikit-learn matplotlib seaborn
 
-   Run the Notebook:
+   3.Run the Notebook:
 
    Open income_prediction.ipynb in your preferred environment (Jupyter Notebook, VS Code, etc.) and execute all cells sequentially.
 
@@ -66,7 +63,7 @@ matplotlib : رسم نمودار ها و ماتریس در هم ریختگی و 
 
 ۲. کتابخانه‌های پایتون مورد نیاز را نصب کنید:
 
-                                                                    bash
+                                                                    
    pip install pandas scikit-learn matplotlib seaborn
 
 ۳. به دایرکتوری پروژه بروید.
